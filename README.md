@@ -20,3 +20,5 @@
 - Centralized carbon dioxide emissions data from the group's three companies into a single database and developed a visualization dashboard to monitor Scope 1 and Scope 2 emissions in compliance with ISO 14064 standards.
 - Initiated data collection and database development for Scope 3 emissions, engaging with external stakeholders to ensure accurate and comprehensive information.
 - Collected data and created visualizations for various reports on ESG indicators, enabling analysis and informed decision-making.
+
+##Other Projects
