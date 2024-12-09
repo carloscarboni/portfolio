@@ -7,7 +7,7 @@
 ### Courses
 - Excel Skills for Business - Macquaire University (_2021_)
 - Data Science Professional Certificate - IBM (_2023_)
-- Geographic Information Systems (GIS) Specialization - University of California, Davis (_2023_)
+- Geographic Information Systems (GIS) Specialization - University of California, Davis (_2024_)
 - Advanced Data Analytics - Google (_2024_)
 
 ## Work Experience
