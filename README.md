@@ -2,7 +2,8 @@
 ##### Techical Skills: Excel, Python, SQL, GIS, R, Power BI
 
 ## Education
-Environmental Engineer | Catholic University of Argentina (_December 2021_)
+
+- Environmental Engineer | Catholic University of Argentina (_December 2021_)
 
 ### Courses
 - Excel Skills for Business - Macquaire University (_2021_)
