@@ -22,4 +22,4 @@
 - Initiated data collection and database development for Scope 3 emissions, engaging with external stakeholders to ensure accurate and comprehensive information.
 - Collected data and created visualizations for various reports on ESG indicators, enabling analysis and informed decision-making.
 
-## Other Projects
+## Portfolio Projects
