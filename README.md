@@ -17,7 +17,7 @@
 - Developed a visualization dashboard for the effluent treatment plant, enabling real-time monitoring and achieving zero environmental fines due to parameter deviations.
 - Centralized all information from the Beverage Production sector into a database and developed a visualization dashboard, enabling the identification of process deviations and the implementation of preventive actions to avoid beverage syrup waste.
 
-## Environmental and Sustainability Analyst @ International Trade Logistics (_Aug 2021 - Oct 2022_)
+** Environmental and Sustainability Analyst @ International Trade Logistics (_Aug 2021 - Oct 2022_)
 - Centralized carbon dioxide emissions data from the group's three companies into a single database and developed a visualization dashboard to monitor Scope 1 and Scope 2 emissions in compliance with ISO 14064 standards.
 - Initiated data collection and database development for Scope 3 emissions, engaging with external stakeholders to ensure accurate and comprehensive information.
 - Collected data and created visualizations for various reports on ESG indicators, enabling analysis and informed decision-making.
