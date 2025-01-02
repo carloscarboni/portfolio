@@ -184,6 +184,7 @@
 ### Distribution of Total and Per Capita Emissions in Argentina and the AMBA
 
 - **Code and Project Repository:** [Emissions and Population Analysis](https://github.com/carloscarboni/R/tree/main/CO2-Emissions-Argentina)
+  
 - **Objective:**  
   - Analyze the spatial distribution of total and per capita CO₂ emissions across Argentina, focusing on specific regions such as Buenos Aires Province and the AMBA region (Greater Buenos Aires and Buenos Aires City). The project utilizes advanced spatial analysis and visualization techniques.
 
